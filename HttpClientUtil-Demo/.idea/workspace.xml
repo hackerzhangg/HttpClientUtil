@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90c1dd3e-d758-4b61-b228-6a6b4e4d2d32" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\FrameReviewJavaProject\HttpClientUtil\HttpClientUtil\HttpClientUtil-Demo\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\zgp\.m2\repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1uHknC32u5pI4tMlvvgZZZxUPDh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="JUnit.HttpClientTest.GetTest2">
+    <configuration name="HttpClientTest.GetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HttpClientUtil-Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bigjava18.httpclient.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bigjava18.httpclient.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.bigjava18.httpclient.demo.HttpClientTest" />
+      <option name="METHOD_NAME" value="GetTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpClientTest.GetTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HttpClientUtil-Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bigjava18.httpclient.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bigjava18.httpclient.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.bigjava18.httpclient.demo.HttpClientTest" />
+      <option name="METHOD_NAME" value="GetTest2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HttpClientTest.GetTest2" />
+        <item itemvalue="JUnit.HttpClientTest.GetTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90c1dd3e-d758-4b61-b228-6a6b4e4d2d32" name="Default Changelist" comment="" />
+      <created>1624330066234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624330066234</updated>
+      <workItem from="1624330067622" duration="1671000" />
+      <workItem from="1624331760807" duration="16000" />
+      <workItem from="1624331875950" duration="2000" />
+      <workItem from="1624332122019" duration="2090000" />
+      <workItem from="1624341258671" duration="483000" />
+      <workItem from="1624342677024" duration="4836000" />
+      <workItem from="1624350328946" duration="545000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="373" key="GridCell.Tab.0.bottom" timestamp="1624348683792">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="373" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1624348683792" />
+    <state width="1493" height="373" key="GridCell.Tab.0.center" timestamp="1624348683792">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="373" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1624348683792" />
+    <state width="1493" height="373" key="GridCell.Tab.0.left" timestamp="1624348683792">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="373" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1624348683792" />
+    <state width="1493" height="373" key="GridCell.Tab.0.right" timestamp="1624348683792">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="373" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1624348683792" />
+    <state width="1493" height="373" key="GridCell.Tab.1.bottom" timestamp="1624348683792">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="373" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1624348683792" />
+    <state width="1493" height="373" key="GridCell.Tab.1.center" timestamp="1624348683792">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="373" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1624348683792" />
+    <state width="1493" height="373" key="GridCell.Tab.1.left" timestamp="1624348683792">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="373" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1624348683792" />
+    <state width="1493" height="373" key="GridCell.Tab.1.right" timestamp="1624348683792">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="373" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1624348683792" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1624350351468">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1624350351468" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1624332416235">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1624332416235" />
+  </component>
+</project>
