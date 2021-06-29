@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="900f58a5-0411-4849-b004-fdce0039634b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\FrameReviewJavaProject\HttpClientUtil\HttpClientUtil\HttpClientUtil-Jdk\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\m2\repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1uHfjy9sA4TqWduws4xRnPPfNwP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="HttpClientJdkTest.demo1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HttpClientUtil-Jdk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bigjava18.httpclient.jdk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bigjava18.httpclient.jdk" />
+      <option name="MAIN_CLASS_NAME" value="com.bigjava18.httpclient.jdk.HttpClientJdkTest" />
+      <option name="METHOD_NAME" value="demo1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HttpClientJdkTest.demo1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="900f58a5-0411-4849-b004-fdce0039634b" name="Default Changelist" comment="" />
+      <created>1624327573296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624327573296</updated>
+      <workItem from="1624327574870" duration="1747000" />
+      <workItem from="1624330074562" duration="301000" />
+      <workItem from="1624331780994" duration="92000" />
+      <workItem from="1624350880043" duration="4000" />
+      <workItem from="1624350888623" duration="120000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="526" y="113" key="FileChooserDialogImpl" timestamp="1624327643287">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="526" y="113" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1624327643287" />
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom" timestamp="1624351008158">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1624351008158" />
+    <state width="1493" height="265" key="GridCell.Tab.0.center" timestamp="1624351008158">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1624351008158" />
+    <state width="1493" height="265" key="GridCell.Tab.0.left" timestamp="1624351008158">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1624351008158" />
+    <state width="1493" height="265" key="GridCell.Tab.0.right" timestamp="1624351008158">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1624351008158" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1624351008158">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1624351008158" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1624351008158">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1624351008158" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1624351008158">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1624351008158" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1624351008158">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1624351008158" />
+    <state x="265" y="39" key="SettingsEditor" timestamp="1624331815064">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="265" y="39" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1624331815064" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1624327830094">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1624327830094" />
+  </component>
+</project>
